@@ -1,0 +1,31 @@
+COMANDOS DE GIT:
+
+1-GIT ADD: empieza a incluir archivos en los commits siguientes.
+
+2-GIT STATUS: muestra el estado de los archivos en el area de trabajo.
+
+3-GIT DIFF: contrasta las diferencias entre las areas donde se hizo un commit y unas modificadas pero sin commit.
+
+4-GIT COMMIT: guarda una foto del area de trabajo.
+
+5-GIT RESET HEAD: para volver las ramas a la foto del ultimo commit.
+
+6-GIT RM: borra archivos del area de preparacion.
+
+7-GIT BRANCH: te muestra las ramas o arma ramas en directorios.
+
+8-GIT CHECKOUT: te mueve por las ramas.
+
+9-GIT MERGE: une el contexto de una rama a la rama actual.
+
+10-GIT LOG: muestra el historial de commits de una rama.
+
+11-GIT TAG: etiqueta un punto en el historial como importante.
+
+12-GIT REMOTE: lista, agrega y borra los repositorios remotos con un alias.
+
+13-GIT FETCH: baja nuevas ramas y datos del repositorio remoto.
+
+14-GIT PULL: baja del repositorio remoto y trata de unir con la rama principal.
+
+15-GIT PUSH: sube las ramas y datos al repositorio remoto.
